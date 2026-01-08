@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cron-press",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "88a84d4b-bda5-4bc4-a1a9-3dce4190b86d",
+			"database_name": "cron-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
